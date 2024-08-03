@@ -1,4 +1,4 @@
-# Full-Stack Interest Messaging Application
+# Full-Stack Messaging Application
 
 ## Overview
 
