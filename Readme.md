@@ -95,3 +95,25 @@ This project is a full-stack application that allows users to send interest mess
 4. **Start Chatting**
 
    - If an interest is accepted, you can start chatting with the user. Open the chat interface and send/receive messages in real-time.
+
+
+## Incomplete Aspects and Future Steps
+
+### Incomplete Aspects
+
+- Full user profile management (e.g., updating profiles, uploading profile pictures).
+- More robust handling of WebSocket connections and reconnections.
+
+### Future Steps
+
+- Implementing additional features like notifications for new messages.
+- Enhancing UI/UX based on user feedback.
+- Deploying the application to a cloud platform like AWS or Heroku.
+
+
+## Contact Information
+
+For any questions or feedback, feel free to reach out:
+
+- Email: rohandass58@gmail.com
+- GitHub: [(https://github.com/rohandass58)]
